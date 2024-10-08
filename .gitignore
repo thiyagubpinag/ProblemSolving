@@ -1,0 +1,7 @@
+.vscode
+
+*.out
+
+__pycache__
+
+*.class
